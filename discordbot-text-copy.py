@@ -122,4 +122,4 @@ async def on_reaction_add(reaction, user):
 
 # Use environment variable or config file for token instead of hardcoding
 # bot.run('YOUR_BOT_TOKEN_HERE')
-bot.run('MTM4MzMzMjY5NDkyMjEwNDgzMg.GuHD5F.VM_kbwztNE4jAbS7HmXlmvIQmiac9FEEEPYnTg')
+bot.run('')
